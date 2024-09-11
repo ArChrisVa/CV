@@ -3,7 +3,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,12 +17,12 @@ sidebar:
     
     languages:
         title: Languages
-          info:
-            - idiom: Greek
-              level: Native
-    
-            - idiom: English
-              level: Proficiency
+        info:
+          - idiom: Greek
+            level: Native
+
+          - idiom: English
+            level: Proficiency
 
 career-profile:
     title: Career Profile allagi
@@ -40,7 +40,7 @@ education:
         university: Aristotle University Of Thessaloniki
         time: OCT 2015 - JUL 2023
         details: |
-          - Earned a Bachelor’s degree in Informatics with a broad learning experience in:
+          - Earned a Bachelor’s degree in Informatics with a strong foundation in:
             - Data Structures
             - Algorithms
             - Database Management
