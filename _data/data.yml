@@ -14,11 +14,15 @@ sidebar:
     email: chrisarv1237@gmail.com
     linkedin: chrisarvanitakis
     github: ArChrisVa
+    
     languages:
-      - idiom: Greek
-        level: Native
-      - idiom: English
-        level: Proficiency
+        title: Languages
+          info:
+            - idiom: Greek
+              level: Native
+    
+            - idiom: English
+              level: Proficiency
 
 career-profile:
     title: Career Profile allagi
