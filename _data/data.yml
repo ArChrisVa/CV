@@ -16,10 +16,10 @@ sidebar:
     github: ArChrisVa
 
     languages:
-          - idiom: Greek
-            level: Native
-          - idiom: English
-            level: Proficiency
+      - idiom: Greek
+        level: Native
+      - idiom: English
+        level: Proficiency
 
 education:
       - degree: MSc in Computer Science
