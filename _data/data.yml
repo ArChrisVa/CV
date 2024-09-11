@@ -20,7 +20,45 @@ sidebar:
         level: Native
       - idiom: English
         level: Proficiency
-        
+
+experiences:
+    - role: Website Creator and Management
+      time: Feb. 2023 - Feb. 2024
+      company:  Association of Educational Caregivers of Corfu, Corfu
+      details: |
+        - Designed and developed a user-friendly website for the Association of Educational Caregivers of Corfu, enhancing online presence and accessibility.
+        - Implemented a content management system (CMS) to facilitate easy updates and maintenance by non-technical staff.
+        - Created and organized website content, including articles, event announcements, and resources for caregivers. 
+        - Integrated social media platforms to promote engagement and disseminate information quickly.
+      link: 'https://www.sefke.edu.gr/'
+    - role: Website Content Writer
+      time: Jul. 2021 - Jan. 2024
+      company: Alfa Ekpaideutiki, Corfu
+      link: 'https://alfaedu.gr'
+      details: |
+        - Worked alongside with website developer and manager to update website using PHP.
+        - Constantly created articles for the website.
+    #- role: Robotics Teacher
+     # time: October 2021 - October 2022
+     # company: Alfa Ekpaideutiki, Corfu
+     # link: 'https://alfaedu.gr'
+     # details: |
+      #  - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
+       # - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
+
+education:
+    - degree: Phd Candidate in Informatics
+      university: Ionian University, Department of Informatics
+      time: May 2024 - Present
+      details: |
+          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
+          - Engaged in research focused on:
+              - Enhancing the efficiency of algorithms.
+              - Exploring innovative models and applications for lip-reading and voice reproduction.
+          - Collaborating with interdisciplinary teams to foster innovative research.
+          - Aiming to publish impactful papers and present findings at premier conferences.
+          - Expertise honed in big data and deep learning analysis.
+          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
 experiences:
     - role: IT Specialist
       time: Jun 2024 - Aug. 2024
