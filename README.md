@@ -1,4 +1,4 @@
 # Resume(CV)
-[Visit here](https://archrisva.github.io/Cv/)
+[Visit here](https://archrisva.github.io/CV/)
 
 
