@@ -22,7 +22,7 @@ sidebar:
         level: Proficiency
 
 education:
-  - degree: MSc in Computer Science
+    degree: MSc in Computer Science
     university: Aristotle University Of Thessaloniki
     time: Oct. 2015 - Jul. 2023
     details: |
@@ -35,7 +35,7 @@ education:
             - Web Development
 
 experiences:
-  - role: IT Specialist
+    role: IT Specialist
     time: Jun 2024 - Aug. 2024
     company: Hellenic Army
     details: |
