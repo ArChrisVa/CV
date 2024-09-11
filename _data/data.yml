@@ -20,7 +20,16 @@ sidebar:
         level: Native
       - idiom: English
         level: Proficiency
-
+        
+experiences:
+    - role: IT Specialist
+      time: Jun 2024 - Aug. 2024
+      company: Hellenic Army
+      details: |
+        - As part of my milirtary obligation, i was member of the 12th Mechanized Infantry Division in the IT office. 
+        - I was responsible for administration, maintenance, control and monitoring of network operations and infrastructure 
+        - of the Division's local area network.
+     
 education:
     degree: MSc in Computer Science
     university: Aristotle University Of Thessaloniki
@@ -33,15 +42,6 @@ education:
             - Computer Networks
             - Artificial Intelligence
             - Web Development
-
-experiences:
-    role: IT Specialist
-    time: Jun 2024 - Aug. 2024
-    company: Hellenic Army
-    details: |
-     As part of my milirtary obligation, i was member of the 12th Mechanized Infantry Division in the IT office. 
-     I was responsible for administration, maintenance, control and monitoring of network operations and infrastructure 
-     of the Division's local area network.
 
 skills:
     title: Skills &amp; Proficiency
