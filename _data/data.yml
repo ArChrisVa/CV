@@ -53,34 +53,11 @@ experiences:
         company: Hellenic Army 
         details: |
           In my milirtary obligation, i was member of the 12th Mechanized Infantry Division in the IT office as a Research and Informatics Soldier. I was responsible for administration, maintenance, control and monitoring of network operations and infrastructure of the Division's local area network.
+      - role: Full Stack Developer
+        time: September 2024 - now
+        company: JC-Scripts | Founder
+        details: |
+          - Developed custom scripts and game modes for a Grand Theft Auto V server using FiveM, which is a custom multiplayer server platform for this game, providing immersive and interactive experiences for players.
+          - Leveraged Lua, React, typescript and SQL to design, develop, and implement custom functionalities, including unique user interfaces.
+        link: 'https://github.com/JC-Scripts'
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 95%
-
-      - name: HTML & CSS
-        level: 80%
-
-      - name: Java
-        level: 92%
-
-      - name: Lua
-        level: 90%
-
-      - name: Git
-        level: 85%
-
-      - name: MongoDB
-        level: 87%
-
-      - name: Docker
-        level: 60%
-
-      - name: Excel
-        level: 90%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
