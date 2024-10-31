@@ -15,6 +15,8 @@ sidebar:
     email: chrisarv1237@gmail.com
     linkedin: chrisarvanitakis
     github: ArChrisVa
+    website: https://github.com/JC-Scripts
+    
     
     languages:
         title: Languages
@@ -56,7 +58,6 @@ experiences:
       - role: Full Stack Developer
         time: September 2024 - now
         company: JC-Scripts | Founder
-        link: 'https://github.com/JC-Scripts'
         details: |
           - Developed custom scripts and game modes for a Grand Theft Auto V server using FiveM, which is a custom multiplayer server platform for this game, providing immersive and interactive experiences for players.
           - Leveraged Lua, React, typescript and SQL to design, develop, and implement custom functionalities, including unique user interfaces.
