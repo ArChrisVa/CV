@@ -49,4 +49,25 @@ experiences:
         details: |
           In my milirtary obligation, i was member of the 12th Mechanized Infantry Division in the IT office as a Research and Informatics Soldier. I was responsible for administration, maintenance, control and monitoring of network operations and infrastructure of the Division's local area network.
         
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Python & Django
+    level: 98%
+
+  - name: Javascript & jQuery
+    level: 98%
+
+  - name: Angular
+    level: 98%
+
+  - name: HTML5 & CSS
+    level: 95%
+
+  - name: Ruby on Rails
+    level: 85%
+
+  - name: Sketch & Photoshop
+    level: 60%
 
