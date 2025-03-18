@@ -24,7 +24,14 @@ sidebar:
 
           - idiom: English
             level: Proficiency
-      
+
+career-profile:
+  title: Profile
+  summary: |
+    A highly motivated Computer Science graduate with a strong foundation in software
+    development and algorithms. Team player and supporter of maintainable software.
+
+    
 education:
     title: Education
     info:
