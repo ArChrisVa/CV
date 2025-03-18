@@ -54,13 +54,17 @@ skills:
 
   toolset:
   - name: Python
-
+  - level: 100%
+  
   - name: Javascript & React
-    
+  - level: 95% 
+  
   - name: MongoDB & MySQL
-    
+  - level: 90%
+  
   - name: HTML5 & CSS
-    
+  - level: 85%
+  
   - name: Lua
-    
+  - level: 80%
 
