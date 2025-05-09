@@ -16,44 +16,35 @@ sidebar:
     github: ArChrisVa
     
     languages:
-        title: Languages
+        title: ΓΛΩΣΣΕΣ
         info:
-          - idiom: Greek
-            level: Native
+          - idiom: Ελληνικά 
+            level: Μητρική
 
-          - idiom: English
-            level: Proficiency
+          - idiom: Αγγλικά 
+            level: Άριστη γνώση
 
 career-profile:
   title: Profile
   summary: |
-    A highly motivated Computer Science graduate with a strong foundation in software
-    development and algorithms. Team player and supporter of maintainable software.
+    Ονομάζομαι Χρήστος Αρβανιτάκης. Είμαι 27 ετών και είμαι απόφοιτος Πληροφορικής του Αριστοτελείου Πανεπιστήμιου.
 
     
 education:
-    title: Education
+    title: Εκπαίδευση
     info:
       - degree: BSc in Informatics
-        university: Aristotle University Of Thessaloniki
+        university: ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ
         time: OCT 2015 - JUL 2023
-        details: |
-          - Earned a Bachelor’s degree in Informatics with a broad learning experience in:
-            - Data Structures
-            - Algorithms
-            - Database Management
-            - Computer Networks
-            - Artificial Intelligence
-            - Web Development
       
 experiences:
     title: Experiences
     info:
-      - role: IT Specialist
+      - role: Τεχνικός Πληροφορικής
         time: Jan 2024 - Aug 2024
-        company: Hellenic Army 
+        company: Ελληνικός Στρατός
         details: |
-          In my milirtary obligation, i was member of the 12th Mechanized Infantry Division in the IT office as a Research and Informatics Soldier. I was responsible for administration, maintenance, control and monitoring of network operations and infrastructure of the Division's local area network.
+          Κατά τη διάρκεια της στρατιωτικής μου θητείας, ήμουν μέλος της 12ης Μηχανοκίνητης Μεραρχίας Πεζικού στο γραφείο Πληροφορικής ως Στρατιώτης Έρευνας και Πληροφορικής. Ήμουν υπεύθυνος για τη διαχείριση, συντήρηση, έλεγχο και παρακολούθηση της λειτουργίας και υποδομής του τοπικού δικτύου (LAN) της Μεραρχίας.
         
 skills:
   title: Skills &amp; Proficiency
